@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 
 import socket, sys, os, re, random, optparse, time, io
 if sys.version_info.major <= 2:import httplib
@@ -147,7 +147,7 @@ class FaceBoom(object):
 parse = optparse.OptionParser(wi+"""
 Usage: python facebook_hack.py [OPTIONS...]
 -------------
-OPTIONS:
+OPTIONS: Rishi Heart Maker
        |
     |--------
     | -t <target email> [OR] <FACEBOOK ID>    ::> Specify target Email [OR] Target Profile ID
@@ -275,6 +275,6 @@ if __name__=='__main__':
 #####################   END OF TOOL  #########################
 #####################                #########################
 ##############################################################
-#This Tool by Oseid Aldary
+#This Tool by Rishi Heart Maker
 #Have a nice day :)
 #GoodBye
